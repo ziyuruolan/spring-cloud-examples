@@ -12,6 +12,8 @@ import org.springframework.context.annotation.Configuration;
 @EnableAdminServer
 public class AdminServerApplication {
 
+
+
 	public static void main(String[] args) {
 		SpringApplication.run(AdminServerApplication.class, args);
 	}
